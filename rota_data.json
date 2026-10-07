@@ -1,0 +1,355 @@
+{
+  "start": "2026-10-08",
+  "end": "2027-04-07",
+  "weekday_blocks": [
+    {
+      "week": 1,
+      "start": "2026-10-08",
+      "end": "2026-10-09",
+      "partial": true,
+      "early": "Ramish",
+      "late": "Brett Smith",
+      "rest": "Darren Hopwood"
+    },
+    {
+      "week": 2,
+      "start": "2026-10-12",
+      "end": "2026-10-16",
+      "partial": false,
+      "early": "Brett Smith",
+      "late": "Darren Hopwood",
+      "rest": "Ramish"
+    },
+    {
+      "week": 3,
+      "start": "2026-10-19",
+      "end": "2026-10-23",
+      "partial": false,
+      "early": "Darren Hopwood",
+      "late": "Ramish",
+      "rest": "Brett Smith"
+    },
+    {
+      "week": 4,
+      "start": "2026-10-26",
+      "end": "2026-10-30",
+      "partial": false,
+      "early": "Ramish",
+      "late": "Brett Smith",
+      "rest": "Darren Hopwood"
+    },
+    {
+      "week": 5,
+      "start": "2026-11-02",
+      "end": "2026-11-06",
+      "partial": false,
+      "early": "Brett Smith",
+      "late": "Darren Hopwood",
+      "rest": "Ramish"
+    },
+    {
+      "week": 6,
+      "start": "2026-11-09",
+      "end": "2026-11-13",
+      "partial": false,
+      "early": "Darren Hopwood",
+      "late": "Ramish",
+      "rest": "Brett Smith"
+    },
+    {
+      "week": 7,
+      "start": "2026-11-16",
+      "end": "2026-11-20",
+      "partial": false,
+      "early": "Ramish",
+      "late": "Brett Smith",
+      "rest": "Darren Hopwood"
+    },
+    {
+      "week": 8,
+      "start": "2026-11-23",
+      "end": "2026-11-27",
+      "partial": false,
+      "early": "Brett Smith",
+      "late": "Darren Hopwood",
+      "rest": "Ramish"
+    },
+    {
+      "week": 9,
+      "start": "2026-11-30",
+      "end": "2026-12-04",
+      "partial": false,
+      "early": "Darren Hopwood",
+      "late": "Ramish",
+      "rest": "Brett Smith"
+    },
+    {
+      "week": 10,
+      "start": "2026-12-07",
+      "end": "2026-12-11",
+      "partial": false,
+      "early": "Ramish",
+      "late": "Brett Smith",
+      "rest": "Darren Hopwood"
+    },
+    {
+      "week": 11,
+      "start": "2026-12-14",
+      "end": "2026-12-18",
+      "partial": false,
+      "early": "Brett Smith",
+      "late": "Darren Hopwood",
+      "rest": "Ramish"
+    },
+    {
+      "week": 12,
+      "start": "2026-12-21",
+      "end": "2026-12-25",
+      "partial": false,
+      "early": "Darren Hopwood",
+      "late": "Ramish",
+      "rest": "Brett Smith"
+    },
+    {
+      "week": 13,
+      "start": "2026-12-28",
+      "end": "2027-01-01",
+      "partial": false,
+      "early": "Ramish",
+      "late": "Brett Smith",
+      "rest": "Darren Hopwood"
+    },
+    {
+      "week": 14,
+      "start": "2027-01-04",
+      "end": "2027-01-08",
+      "partial": false,
+      "early": "Brett Smith",
+      "late": "Darren Hopwood",
+      "rest": "Ramish"
+    },
+    {
+      "week": 15,
+      "start": "2027-01-11",
+      "end": "2027-01-15",
+      "partial": false,
+      "early": "Darren Hopwood",
+      "late": "Ramish",
+      "rest": "Brett Smith"
+    },
+    {
+      "week": 16,
+      "start": "2027-01-18",
+      "end": "2027-01-22",
+      "partial": false,
+      "early": "Ramish",
+      "late": "Brett Smith",
+      "rest": "Darren Hopwood"
+    },
+    {
+      "week": 17,
+      "start": "2027-01-25",
+      "end": "2027-01-29",
+      "partial": false,
+      "early": "Brett Smith",
+      "late": "Darren Hopwood",
+      "rest": "Ramish"
+    },
+    {
+      "week": 18,
+      "start": "2027-02-01",
+      "end": "2027-02-05",
+      "partial": false,
+      "early": "Darren Hopwood",
+      "late": "Ramish",
+      "rest": "Brett Smith"
+    },
+    {
+      "week": 19,
+      "start": "2027-02-08",
+      "end": "2027-02-12",
+      "partial": false,
+      "early": "Ramish",
+      "late": "Brett Smith",
+      "rest": "Darren Hopwood"
+    },
+    {
+      "week": 20,
+      "start": "2027-02-15",
+      "end": "2027-02-19",
+      "partial": false,
+      "early": "Brett Smith",
+      "late": "Darren Hopwood",
+      "rest": "Ramish"
+    },
+    {
+      "week": 21,
+      "start": "2027-02-22",
+      "end": "2027-02-26",
+      "partial": false,
+      "early": "Darren Hopwood",
+      "late": "Ramish",
+      "rest": "Brett Smith"
+    },
+    {
+      "week": 22,
+      "start": "2027-03-01",
+      "end": "2027-03-05",
+      "partial": false,
+      "early": "Ramish",
+      "late": "Brett Smith",
+      "rest": "Darren Hopwood"
+    },
+    {
+      "week": 23,
+      "start": "2027-03-08",
+      "end": "2027-03-12",
+      "partial": false,
+      "early": "Brett Smith",
+      "late": "Darren Hopwood",
+      "rest": "Ramish"
+    },
+    {
+      "week": 24,
+      "start": "2027-03-15",
+      "end": "2027-03-19",
+      "partial": false,
+      "early": "Darren Hopwood",
+      "late": "Ramish",
+      "rest": "Brett Smith"
+    },
+    {
+      "week": 25,
+      "start": "2027-03-22",
+      "end": "2027-03-26",
+      "partial": false,
+      "early": "Ramish",
+      "late": "Brett Smith",
+      "rest": "Darren Hopwood"
+    },
+    {
+      "week": 26,
+      "start": "2027-03-29",
+      "end": "2027-04-02",
+      "partial": false,
+      "early": "Brett Smith",
+      "late": "Darren Hopwood",
+      "rest": "Ramish"
+    },
+    {
+      "week": 27,
+      "start": "2027-04-05",
+      "end": "2027-04-07",
+      "partial": true,
+      "early": "Darren Hopwood",
+      "late": "Ramish",
+      "rest": "Brett Smith"
+    }
+  ],
+  "saturdays": [
+    {
+      "date": "2026-10-10",
+      "who": "Ramish"
+    },
+    {
+      "date": "2026-10-17",
+      "who": "Brett Smith"
+    },
+    {
+      "date": "2026-10-24",
+      "who": "Darren Hopwood"
+    },
+    {
+      "date": "2026-10-31",
+      "who": "Ramish"
+    },
+    {
+      "date": "2026-11-07",
+      "who": "Brett Smith"
+    },
+    {
+      "date": "2026-11-14",
+      "who": "Darren Hopwood"
+    },
+    {
+      "date": "2026-11-21",
+      "who": "Ramish"
+    },
+    {
+      "date": "2026-11-28",
+      "who": "Brett Smith"
+    },
+    {
+      "date": "2026-12-05",
+      "who": "Darren Hopwood"
+    },
+    {
+      "date": "2026-12-12",
+      "who": "Ramish"
+    },
+    {
+      "date": "2026-12-19",
+      "who": "Brett Smith"
+    },
+    {
+      "date": "2026-12-26",
+      "who": "Darren Hopwood"
+    },
+    {
+      "date": "2027-01-02",
+      "who": "Ramish"
+    },
+    {
+      "date": "2027-01-09",
+      "who": "Brett Smith"
+    },
+    {
+      "date": "2027-01-16",
+      "who": "Darren Hopwood"
+    },
+    {
+      "date": "2027-01-23",
+      "who": "Ramish"
+    },
+    {
+      "date": "2027-01-30",
+      "who": "Brett Smith"
+    },
+    {
+      "date": "2027-02-06",
+      "who": "Darren Hopwood"
+    },
+    {
+      "date": "2027-02-13",
+      "who": "Ramish"
+    },
+    {
+      "date": "2027-02-20",
+      "who": "Brett Smith"
+    },
+    {
+      "date": "2027-02-27",
+      "who": "Darren Hopwood"
+    },
+    {
+      "date": "2027-03-06",
+      "who": "Ramish"
+    },
+    {
+      "date": "2027-03-13",
+      "who": "Brett Smith"
+    },
+    {
+      "date": "2027-03-20",
+      "who": "Darren Hopwood"
+    },
+    {
+      "date": "2027-03-27",
+      "who": "Ramish"
+    },
+    {
+      "date": "2027-04-03",
+      "who": "Brett Smith"
+    }
+  ]
+}
